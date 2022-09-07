@@ -1,0 +1,120 @@
+H:\.NET\Weather app\bin\Debug\Weather app.exe.config
+H:\.NET\Weather app\bin\Debug\Weather app.exe
+H:\.NET\Weather app\bin\Debug\Weather app.pdb
+H:\.NET\Weather app\obj\Debug\Weather app.csproj.AssemblyReference.cache
+H:\.NET\Weather app\obj\Debug\Weather_app.Form1.resources
+H:\.NET\Weather app\obj\Debug\Weather_app.Properties.Resources.resources
+H:\.NET\Weather app\obj\Debug\Weather app.csproj.GenerateResource.cache
+H:\.NET\Weather app\obj\Debug\Weather app.csproj.CoreCompileInputs.cache
+H:\.NET\Weather app\obj\Debug\Weather app.exe
+H:\.NET\Weather app\obj\Debug\Weather app.pdb
+H:\.NET\Weather app\bin\Debug\FFImageLoading.dll
+H:\.NET\Weather app\bin\Debug\FFImageLoading.Platform.dll
+H:\.NET\Weather app\bin\Debug\FFImageLoading.Transformations.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.ReportViewer.Common.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+H:\.NET\Weather app\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+H:\.NET\Weather app\bin\Debug\FFImageLoading.pdb
+H:\.NET\Weather app\bin\Debug\FFImageLoading.xml
+H:\.NET\Weather app\bin\Debug\FFImageLoading.Platform.xml
+H:\.NET\Weather app\bin\Debug\FFImageLoading.Transformations.xml
+H:\.NET\Weather app\obj\Debug\Weather app.csproj.CopyComplete
+H:\.NET\Weather app\bin\Debug\Newtonsoft.Json.dll
+H:\.NET\Weather app\bin\Debug\Newtonsoft.Json.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.Http.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.Routing.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.Options.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.Primitives.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.Net.Http.Headers.dll
+H:\.NET\Weather app\bin\Debug\System.Buffers.dll
+H:\.NET\Weather app\bin\Debug\System.ComponentModel.Annotations.dll
+H:\.NET\Weather app\bin\Debug\System.Configuration.ConfigurationManager.dll
+H:\.NET\Weather app\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\.NET\Weather app\bin\Debug\System.Memory.dll
+H:\.NET\Weather app\bin\Debug\System.Numerics.Vectors.dll
+H:\.NET\Weather app\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\.NET\Weather app\bin\Debug\System.Security.AccessControl.dll
+H:\.NET\Weather app\bin\Debug\System.Security.Permissions.dll
+H:\.NET\Weather app\bin\Debug\System.Security.Principal.Windows.dll
+H:\.NET\Weather app\bin\Debug\System.Text.Encodings.Web.dll
+H:\.NET\Weather app\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\.NET\Weather app\bin\Debug\System.ValueTuple.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.Http.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.Routing.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.Options.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.Primitives.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.Net.Http.Headers.xml
+H:\.NET\Weather app\bin\Debug\System.Buffers.xml
+H:\.NET\Weather app\bin\Debug\System.Configuration.ConfigurationManager.xml
+H:\.NET\Weather app\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\.NET\Weather app\bin\Debug\System.Memory.xml
+H:\.NET\Weather app\bin\Debug\System.Numerics.Vectors.xml
+H:\.NET\Weather app\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\.NET\Weather app\bin\Debug\System.Security.AccessControl.xml
+H:\.NET\Weather app\bin\Debug\System.Security.Permissions.xml
+H:\.NET\Weather app\bin\Debug\System.Security.Principal.Windows.xml
+H:\.NET\Weather app\bin\Debug\System.Text.Encodings.Web.xml
+H:\.NET\Weather app\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\.NET\Weather app\bin\Debug\System.ValueTuple.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.Configuration.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+H:\.NET\Weather app\bin\Debug\System.Text.Json.dll
+H:\.NET\Weather app\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.Configuration.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+H:\.NET\Weather app\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+H:\.NET\Weather app\bin\Debug\System.Text.Json.xml
+H:\.NET\Weather app\bin\Debug\Weather app.exe.manifest
+H:\.NET\Weather app\bin\Debug\Weather app.application
+H:\.NET\Weather app\obj\Debug\Weather app.exe.manifest
+H:\.NET\Weather app\obj\Debug\Weather app.application
